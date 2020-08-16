@@ -41,7 +41,7 @@ url_code: https://github.com/karazijal/xsertion
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: "presentation.pdf"
 url_source:
 url_video:
 
