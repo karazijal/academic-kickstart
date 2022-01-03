@@ -10,23 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Machine Learning Engineer 
+role: "DPhil student at:"
 
 # Organizations/Affiliations
 organizations:
-- name: OakNorth
-  url: ""
+- name: Visual Geometry Group
+  url: "https://www.robots.ox.ac.uk/~vgg/"
+- name: University of Oxford
+  url: "https://www.ox.ac.uk"
+- name: CDT in Autonomous Intelligent Machines and Systems
+  url: "https://aims.robots.ox.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include generative models, computer vision and scene understanding.
 
 interests:
-- Generative Models
-- Computer Vision
-- Scene Understanding
+- Unsupervised methods
+- Generative models
+- Computer vision
+- Scene understanding
 
 education:
   courses:
+  - course: DPhil 
+    institution: University of Oxford
+    year: (ongoing)
   - course: MEng in Computer Science
     institution: University of Cambridge
     year: 2017
@@ -41,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:laurynas.karazija@cantab.net'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:laurynas@robots.ox.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LKarazija
@@ -70,9 +78,8 @@ email: ""
 # - Visitors
 ---
 
-I am currently a Machine Learning Enginner at [OakNorth](https://www.oaknorth.com) working on various computer vision models. 
-Before that I worked for [Bloomberg](https://www.bloomberg.com/professional/product/asset-and-investment-manager/) where I used market transaction data to better model users and their needs.
+I am currently a DPhil (PhD) student at University of Oxford, [AIMS CDT](https://aims.robots.ox.ac.uk), advised by [Prof A. Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/), [Dr C. Rupprecht](https://chrirupp.github.io), and [Dr I. Laina](https://scholar.google.de/citations?user=n9nXAPcAAAAJ&hl=en) at [VGG](https://www.robots.ox.ac.uk/~vgg/).
+I am broadly interested in unsupervised scene understanding, with emphasis on objects.
 
-I graduated with MEng from University of Cambridge. My supervisor was the amazing [Prof Liò](https://www.cl.cam.ac.uk/~pl219/). During my time here, I was associated with [Fizwilliam College](https://www.fitz.cam.ac.uk) and my DoS was [Dr Harle](https://www.cl.cam.ac.uk/~rkh23/site/). 
-
+In previous life, I worked as MLE for OakNorth and Bloomberg. I graduated with MEng in Computer Science from University of Cambridge, supervised by [Prof Liò](https://www.cl.cam.ac.uk/~pl219/). 
 Feel free to explore further. Apologies, this site is still under construction. 

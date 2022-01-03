@@ -1,9 +1,9 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "DPhil Student"
+  company = "University of Oxford, VGG"
+  company_url = ""
+  location = "Oxford, UK"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "Working in Visual Geometry Group."
 
 [[experience]]
   title = "Machine Learning Engineer"
@@ -24,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "London, UK"
   date_start = "2019-07-19"
-  date_end = ""
+  date_end = "2020-10-29"
   description = """
   - Designing a system for table contents’ reconstruction from document images using DL. Joint work with [Liam Atkinson](https://twitter.com/latkins_).
   - Worked on BERT-based text classifier for industry code recommendation.
